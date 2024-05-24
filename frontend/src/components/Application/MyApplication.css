@@ -1,0 +1,36 @@
+.job_seeker_card {
+    border: 1px solid #0A74DA; /* Example primary color */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job_seeker_card .card-title {
+    color: #0A74DA; /* Primary color */
+  }
+  
+  .job_seeker_card .row {
+    margin-bottom: 1rem;
+  }
+  
+  .job_seeker_card .row strong {
+    color: #333; /* Text color */
+  }
+  
+  .job_seeker_card .btn {
+    background-color: #0A74DA;
+    border: none;
+    color: #fff;
+  }
+  
+  .job_seeker_card .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .job_seeker_card img {
+    cursor: pointer;
+    max-width: 100%; /* Ensure responsiveness */
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+  

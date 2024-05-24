@@ -1,0 +1,57 @@
+/* MyJobs.css
+.myJobs {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .myJobs .page-title {
+    color: #007bff;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .myJobs .card {
+    border: 1px solid #007bff;
+    border-radius: 10px;
+  }
+  
+  .myJobs .card-body {
+    background-color: #ffffff;
+  }
+  
+  .myJobs .form-label {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .myJobs .form-control:disabled {
+    background-color: #e9ecef;
+  }
+  
+  .myJobs .form-select:disabled {
+    background-color: #e9ecef;
+  }
+  
+  .myJobs .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .myJobs .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .myJobs .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .myJobs .no-jobs-message {
+    color: #6c757d;
+  }
+   */
+   .page{
+    width: 100%;
+   }

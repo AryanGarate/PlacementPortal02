@@ -1,0 +1,38 @@
+.heroSection {
+    background-color: #f8f9fa; /* Light background for the hero section */
+    padding: 50px 0;
+  }
+  
+  .heroSection .title h1 {
+    color: #343a40; 
+    font-weight: bold;
+  }
+  
+  .heroSection .title p {
+    color: #6c757d; /* Muted color for the paragraph */
+    margin-top: 20px;
+  }
+  
+  .heroSection .image img {
+    border-radius: 10px; /* Rounded corners for the image */
+  }
+  
+  .heroSection .details .card {
+    border: none; /* Remove card border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for cards */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for hover effect */
+  }
+  
+  .heroSection .details .card:hover {
+    transform: translateY(-10px); /* Lift effect on hover */
+  }
+  
+  .heroSection .details .icon {
+    font-size: 2rem; /* Larger icon size */
+    color: #007bff; /* Primary color for icons */
+  }
+  
+  .heroSection .details .card-body {
+    padding: 20px; /* Padding inside cards */
+  }
+  

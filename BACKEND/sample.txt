@@ -1,0 +1,42 @@
+{
+       "title":"java develpor",
+    "description":"description............description............,,,",
+    "category":"backend",
+    "eligible":"PGDAC",
+    "state":"maharahtra",
+    "city":"mumbai",
+    "location" : "mono view sion mumbai",
+    "salaryFrom" : "250000",
+    "salaryTo" :"500000"
+}
+
+
+{
+    
+"name":"Aryan Garate",
+"email":"TPO12@gmail.com",
+"prn":"1234567890",
+"phone":
+"123123123",
+"password":"TPO@12345",
+"role":
+"TPO"
+}
+
+admin id : TPO12@gmail.com
+admin pass : TPO@12345
+
+
+{
+    "email":"TPO2@gmail.com",
+    "password": "TPO@12345",
+    "role": "TPO"
+}
+
+{
+    "email":"abc1@gmail.com",
+    "password": "abcabc123",
+    "role": "Student"
+}
+abc1@gmail.com
+//pass -abcabc123

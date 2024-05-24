@@ -1,0 +1,16 @@
+.previousBatch .carousel-img-container {
+  height: 500px; /* Adjust the height as needed */
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.previousBatch .carousel-img {
+  height: 100%;
+  width: auto; /* Maintain aspect ratio */
+}
+
+.previousBatch .carousel-custom {
+  background-color: #000; /* Ensure the dark theme */
+}
